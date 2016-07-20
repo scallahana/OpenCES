@@ -23,5 +23,5 @@ and for the staff to have less to worry about and are able to focus on what matt
 
 Getting involved is very simple if you have a love for open source software. The passion to create new and 
 useful software then just simply browse our external documentation (this will allow us to go into depth 
-about the product). You can help if your a designer, thinker, or of course programmer!
-
+about the product). You can help if your a designer, thinker, or of course programmer! 
+We also have a slack channel! [Slack Chat](https://opences.slack.com)
