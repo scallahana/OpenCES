@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/opences/badge/?version=latest)](http://opences.readthedocs.io/en/latest/?badge=latest)
+
 # What is OpenCES?
 
 OpenCES is an open source enrollment system. This isn't just for schools
