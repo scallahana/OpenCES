@@ -33,7 +33,7 @@ class studentInfo {
      * This gets the users Date of birth and in int form and just the year so we can automate the age tasks
      * then this will begin an if statement to make sure the year of birth is correct.
      */
-    void setDateOfBirth() {
+    private void setDateOfBirth() {
         Scanner scc = new Scanner(System.in);
         System.out.println(name + " What year were you born in?");
         dateOfBirth = sc.nextInt();
@@ -49,12 +49,12 @@ class studentInfo {
     /**
      * This will allow the user to edit the date of birth, this will be available application wide.
      */
-    void editDateOfBirth() {
+    private void editDateOfBirth() {
          System.out.print(dateOfBirth);
     }
 
-    void setAge() {
-        age = (dateOfBirth - year);
+    private void setAge() {
+        age = (year - dateOfBirth);
         System.out.println("You are " + age + " years old is this correct?");
     }
 }

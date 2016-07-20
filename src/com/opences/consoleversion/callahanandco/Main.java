@@ -6,7 +6,7 @@ package com.opences.consoleversion.callahanandco;
  * student information and begin choosing classes for the student.
  */
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         studentInfo std = new studentInfo();
 
