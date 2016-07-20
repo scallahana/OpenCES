@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/opences/badge/?version=latest)](http://opences.readthedocs.io/en/latest/?badge=latest)
+[![CircleCI](https://circleci.com/gh/scallahana/OpenCES/tree/master.svg?style=svg)](https://circleci.com/gh/scallahana/OpenCES/tree/master)
 
 # What is OpenCES?
 
