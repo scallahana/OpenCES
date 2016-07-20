@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/scallahana/OpenCES/tree/master.svg?style=svg)](https://circleci.com/gh/scallahana/OpenCES/tree/master)
+## Latest build [![CircleCI](https://circleci.com/gh/scallahana/OpenCES/tree/master.svg?style=svg)](https://circleci.com/gh/scallahana/OpenCES/tree/master)
 
 # What is OpenCES?
 
